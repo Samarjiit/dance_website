@@ -160,7 +160,11 @@ const Footer = () => {
           </li>
 
           <li>
-            <a href="https://google.com" target={"_blank"} rel="noreferrer">
+            <a
+              href="https://www.google.com/localservices/prolist?g2lbs=AOHF13mEEJBWxuwh2PJzpOiffLsfCnh9M6m5fBl_nnhdHgYNnUMwyAeBN7xMMzjGT7Vl5fLlEmBSoSkS2vpz04EW4bl9n16aYA%3D%3D&hl=en-IN&gl=in&ssta=1&oq=dance%20class%20near%20me&src=2&sa=X&sqi=2&q=dance%20class%20in%20varthur&ved=2ahUKEwjkuO-Ik-WIAxVcwYQAHVJQDToQjdcJegQIABAF&spp=Cg0vZy8xMXRkYmgwaDMxOpgBV2h3UUFCQUJJaFprWVc1alpTQmpiR0Z6Y3lCcGJpQjJZWEowYUhWeXFnRlFFQUVxRHlJTFpHRnVZMlVnWTJ4aGMzTW9BRElmRUFFaUc3WXBKbDNYR1JEOWtEUzNJSXJEdzNrWkppRzcwUEtNRDZMWjZ6SWFFQUlpRm1SaGJtTmxJR05zWVhOeklHbHVJSFpoY25Sb2RYST0%3D&slp=MgBAAVIECAIgAGgBiAEAmgEGCgIXGRAA&scp=ChFnY2lkOmRhbmNlX3NjaG9vbBIgIghtYXAgYXJlYSoUDcyurQcVkfhTLh0nDscHJYxmXS4aACoMRGFuY2Ugc2Nob29sOgJAAQ%3D%3D#ts=3"
+              target={"_blank"}
+              rel="noreferrer"
+            >
               reviews
             </a>
           </li>
