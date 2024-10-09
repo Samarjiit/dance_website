@@ -3,7 +3,7 @@ import React, { useState } from "react"
 import { useLocomotiveScroll } from "react-locomotive-scroll"
 import { Link } from "react-router-dom"
 import styled from "styled-components"
-
+import NewArrival from "../sections/Location"
 const NavContainer = styled(motion.div)`
   position: absolute;
   /* left: 50%; */
@@ -141,7 +141,7 @@ const Navbar = () => {
           whileTap={{ scale: 0.9, y: 0 }}
           onClick={() => handleScroll("#shop")}
         >
-          <Link to="/">FORMS</Link>
+          <Link to="/">SERVICES</Link>
         </Item>
 
         <Item
@@ -150,7 +150,7 @@ const Navbar = () => {
           onClick={() => handleScroll(".new-arrival")}
         >
           {" "}
-          <Link to="/">CONTACT US</Link>
+          <Link to="">LOCATIONS</Link>
         </Item>
       </MenuItems>
     </NavContainer>

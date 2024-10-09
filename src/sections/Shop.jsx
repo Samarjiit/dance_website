@@ -5,14 +5,16 @@ import React, { useLayoutEffect, useRef } from "react"
 import styled from "styled-components"
 
 import img1 from "../assets/Images/breakdance.jpg"
-import img2 from "../assets/Images/jazz.avif"
+import img2 from "../assets/Images/birthday.jpg"
 import img3 from "../assets/Images/zumba.jpg"
 import img4 from "../assets/Images/hiphopp.jpg"
 import img5 from "../assets/Images/contempo.webp"
-import img6 from "../assets/Images/tap.jpg"
+import img6 from "../assets/Images/cooperate.jpg"
 import img7 from "../assets/Images/weeding.jpg"
-import img8 from "../assets/Images/ballet.webp"
-import img9 from "../assets/Images/bharat.jpg"
+import img8 from "../assets/Images/collegee.jpg"
+import img9 from "../assets/Images/stage.jpg"
+import img10 from "../assets/Images/mashup.webp"
+
 //import img10 from "../assets/Images/10.webp"
 
 const Section = styled(motion.section)`
@@ -213,13 +215,14 @@ const Shop = () => {
       <Right data-scroll ref={Horizontalref}>
         <Product img={img1} title="Break Dance" />
         <Product img={img4} title="Hip-Hop" />
-        <Product img={img2} title="Jazz" />
+        <Product img={img2} title="Birthday Dance" />
         <Product img={img3} title="Zumba" />
         <Product img={img5} title="Contemporary" />
-        <Product img={img6} title="tap Dance" />
-        <Product img={img7} title="Weeding coreography" />
-        <Product img={img8} title="Ballet" />
-        <Product img={img9} title="Bharatnatyam " />
+        <Product img={img6} title="Cooperate event" />
+        <Product img={img7} title="Weeding family dance coreo" />
+        <Product img={img8} title="College culture coreo" />
+        <Product img={img9} title="Stage Show" />
+        <Product img={img10} title="Mashup Dance" />
       </Right>
     </Section>
   )

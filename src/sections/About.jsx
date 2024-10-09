@@ -144,7 +144,7 @@ const About = () => {
         About Us
       </Title>
       <Left data-scroll data-scroll-sticky data-scroll-target="#fixed-target">
-        At Tapping Feet Dance and Fitness Studio, we &apos;ve been bringing the
+        At Tapping Feet Dance and Fitness Center, we &apos;ve been bringing the
         joy of movement to our community for the past three years. Our studio
         offers a variety of dance styles, from contemporary to hip-hop, as well
         as fitness classes that energize and uplift. Whether you're here to

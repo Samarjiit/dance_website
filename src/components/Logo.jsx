@@ -95,7 +95,7 @@ const Logo = () => {
         </svg>
 
         <Text variants={textVariants} initial="hidden" animate="visible">
-          TFDAFS
+          TFDAFC
         </Text>
       </Link>
     </Container>

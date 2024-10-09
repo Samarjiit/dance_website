@@ -113,7 +113,7 @@ const Loader = () => {
         </g>
       </svg>
       <Text variants={textVariants} initial="hidden" animate="visible">
-        Tapping Feet Dance And Fitness Studio
+        Tapping Feet Dance And Fitness Center
       </Text>
     </Container>
   )

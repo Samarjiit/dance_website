@@ -134,7 +134,7 @@ const Footer = () => {
           data-scroll-speed="2"
         />
         <h3 data-scroll data-scroll-speed="-1">
-          Tapping Feet Dance And Fitness Studio
+          Tapping Feet Dance And Fitness Center
         </h3>
       </LogoContainer>
       <FooterComponent
@@ -153,10 +153,10 @@ const Footer = () => {
             about
           </li>
           <li aria-hidden="true" onClick={() => handleScroll("#shop")}>
-            FORMS
+            SERVICES
           </li>
           <li aria-hidden="true" onClick={() => handleScroll(".new-arrival")}>
-            CONTACT US
+            LOCATIONS
           </li>
 
           <li>
