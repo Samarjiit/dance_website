@@ -224,7 +224,7 @@ const NewArrival = () => {
             Karnataka 560048
           </p>
           <p>
-            <strong>Contact:</strong> +91 79471 09212
+            <strong>Contact:</strong> +91 97424 28890
           </p>
           <a
             href="https://maps.app.goo.gl/kYQScnynaUK4Nitw9"
@@ -236,7 +236,7 @@ const NewArrival = () => {
           </a>
           &nbsp;&nbsp;
           <a
-            href="https://wa.me/917947109212"
+            href="https://wa.me/919742428890"
             target="_blank"
             rel="noopener noreferrer"
             className="whatsapp-button"
